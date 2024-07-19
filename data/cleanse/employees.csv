@@ -1,0 +1,10 @@
+Name,Age,Experience,Salary
+Dilbert,23,1,5000
+Alice,25,4,7000
+Wally,30,8,8000
+Point Head,NULL,6,10000
+Dogbert,21,NULL,6000
+Catbert,42,16,15000
+Ratbert,56,23,18000
+NULL,26,NULL,NULL
+NULL,NULL,5,11000
